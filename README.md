@@ -18,4 +18,4 @@ A simple, lightweight command-line task manager built with Python. It allows you
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/cli-task-manager.git](https://github.com/YOUR_USERNAME/cli-task-manager.git)
+   git clone [https://github.com/aniketgurnule024/cli-task-manager.git](https://github.com/aniketgurnule024/cli-task-manager.git)
